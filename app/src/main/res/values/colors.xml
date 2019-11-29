@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="action_button">#aaffffff</color>
+    <color name="purple">#576ac2</color>
+    <color name="purple_dark">#3549a0</color>
+    <color name="list_icon">#808080</color>
+    <color name="gray_star">#808080</color>
+    <color name="color_primary">#17827d</color>
+    <color name="white">#fff</color>
+    <color name="white1">#eee</color>
+    <color name="white2">#aaffffff</color>
+    <color name="gray">#A0A0A0</color>
+    <color name="gold">#FFD700</color>
+    <color name="gray2">#808080</color>
+    <color name="gray_dark">#505050</color>
+    <color name="gray_lite">#D0D0D0</color>
+    <color name="gray_b">#bbb</color>
+    <color name="white_2">#EEE</color>
+    <color name="green_dark">#2E8B57</color>
+    <color name="blue_l1">#1E90FF</color>
+    <color name="blue_r">#4169E1</color>
+    <color name="black">#000</color>
+    <color name="red_salmon">#E9967A</color>
+    <color name="red_indian">#CD5C5C</color>
+    <color name="select">#88888888</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="bucket_active">#ffaa00</color>
+    <color name="bucket_nurturing">#1a75ff</color>
+    <color name="bucket_won">#00aa00</color>
+    <color name="bucket_lost">#aa0000</color>
+    <color name="bucket_invalid">#404040</color>
+
+    <color name="white_t">#77ffffff</color>
+
+
+    <color name="deactivated">#aa7986cb</color>
+    <color name="deactivated_lite">#bbe3f2fd</color>
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="chat_head_out">#b6dfc6</color>
+    <color name="chat_out">#b6dfc6</color>
+    <color name="chat_incoming_head">#eaeafb</color>
+    <color name="chat_sys_head">#bdcbf5</color>
+    <color name="chat_sys">#d3dcf8</color>
+
+    <color name="blue_green">#20B2AA</color>
+    <color name="blue_logo">#4da6ff</color>
+
+    <color name="empty_directory_hint">#c7c7c7</color>
+
+    <color name="compatibility_pressed_color">#1a000000</color>
+    <color name="compatibility_focus_color">#48000000</color>
+
+
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="rippelColor">#0099CC</color>
+    <color name="ic_launcher_background_m">#fff</color>
+
+    <color name="progress_bg">#fcfae8</color>
+    <color name="progress_fg">#f0e68c</color>
+
+
+    <color name="primaryAccount">#80bdff</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <color name="black_transparent">#14000000</color>
+    <color name="black_transparent_image">#46000000</color>
+    <color name="active_indicator">@android:color/white</color>
+    <color name="inactive_indicator">#4D000000</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="bg">#757575</color>
+    <color name="grayHome">#959595</color>
+    <color name="green_lite">#aa00ff00</color>
+
+
+</resources>

@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "588088186212",
+    "firebase_url": "https://timepay-app.firebaseio.com",
+    "project_id": "timepay-app",
+    "storage_bucket": "timepay-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588088186212:android:e4fbc94ec5525e96ca5671",
+        "android_client_info": {
+          "package_name": "com.timepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588088186212-020u844e51hviqk4hlulkqk070lpamsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timepay",
+            "certificate_hash": "d9e71fb30cf5841dc1101bdab4a22390928daf6f"
+          }
+        },
+        {
+          "client_id": "588088186212-nsnii31gmroenmh1uov9f4el963t4s2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timepay",
+            "certificate_hash": "c5c1b65439c6ad89a2e87f53dc952da3892ee3e3"
+          }
+        },
+        {
+          "client_id": "588088186212-0vglo4bhtqcolkckq4f06goc25340qop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timepay",
+            "certificate_hash": "0851ad31aab9fdb648aa8703447776dca4042fab"
+          }
+        },
+        {
+          "client_id": "588088186212-5lqu31mdedp96jqqlcto63jkhf5ffipa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7kyjis3Zwfr4xaQmfqh1aNt9hV2nAfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588088186212-5lqu31mdedp96jqqlcto63jkhf5ffipa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
